@@ -1,0 +1,10 @@
+window.yorenovNewHudAssets = {
+    "weapon": {
+    },
+    "logo": {
+    },
+    "icons": {
+    },
+    "speedometer": {
+    },
+    "style": "body .authorization{background:0 0;}#app .authorization{background-image:url(data:image/png;base64,);/* ---------- ТАБЛО КАПТА ---------- */ #app .capture-table{background:none}#app .capture-table__col-kills{background-image:url(data:image/svg+xml;base64,)}#app .capture-table__col-kills.my{background-image:url(data:image/svg+xml;base64,)}#app .capture-table__timer{background-image:url(data:image/svg+xml;base64,)}/* ---------- СПИДОМЕТР ---------- */ /* ---------- РАДАР ---------- */ /* ---------- ПОЛОСКИ ---------- */ .old-param.health .old-progress__value{background-color:#ed2e2e;box-shadow:#ed2e2e80 0 0 .46vh 0;}.old-param.armour .old-progress__value{background-color:#526ee6;box-shadow:#526ee680 0 0 .46vh 0;}.old-param.hunger .old-progress__value{background-color:#ff872e;box-shadow:#ff892e4d 0 0 .46vh 0;}.old-param.breath .old-progress__value{background-color:#fff;box-shadow:#ffffff80 0 0 .46vh 0;}/* ---------- ИКОНКИ ---------- */ .old-money img{width:2.5vh;height:2.5vh;margin-right:1.2vh;}.old-param.health .old-param__icon{width:1.5vh;height:1.5vh;}.old-param.armour .old-param__icon{width:1.55vh;height:1.65vh;}.old-param.hunger .old-param__icon{width:1.6vh;height:2.1vh;}.old-param.breath .old-param__icon{width:.95vh;height:.95vh;}/* ---------- ДОП СТИЛИ ---------- */ "} //Диану я очень люблю
